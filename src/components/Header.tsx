@@ -35,6 +35,9 @@ export default function Header() {
                 <Link href="/dashboard-c">Dashboard-C</Link>
               </div>
               <div className="flex items-center font-bold text-white mr-4">
+                <Link href="/repos">Repos</Link>
+              </div>
+              <div className="flex items-center font-bold text-white mr-4">
                 <UserButton />
               </div>
               <div className="flex items-center font-bold text-white mr-4">
